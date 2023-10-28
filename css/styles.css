@@ -1,0 +1,36 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header {
+  background-color: #ccc;
+  margin: 0 0 60px 0;
+  padding: 16px;
+}
+
+.header .page-title {
+  display: inline-block;
+}
+.header .page-tagline {
+  display: inline-block;
+  margin: 0 0 0 16px;
+}
+
+.card {
+  border: 1px solid #bbbbbb;
+  border-radius: 4px;
+  width: 600px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.card .list-title {
+  margin: 0 0 16px 0;
+}
+.card .recipe-list {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+.card .recipe-list .list-item {
+  padding: 8px;
+}
